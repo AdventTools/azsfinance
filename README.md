@@ -111,3 +111,7 @@ Limbile sunt gestionate dinamic din panoul admin — se pot adăuga sau dezactiv
 Aplicație în **dezvoltare activă**. Versiunile noi apar regulat, cu schimbări vizibile fie în secțiunea „Noutăți" din panou, fie în jurnalul de activitate al echipei de dezvoltare.
 
 Sponsorizată privat, oferită **gratuit** bisericilor adventiste din România.
+
+---
+
+*Dezvoltator: **Samy Balasa**.*
